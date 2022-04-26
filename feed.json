@@ -7,6 +7,96 @@
 	"items": [
 		
 			{
+				"id": "http://jameskoole.micro.blog/2022/04/26/broadcast-vs-discussion.html",
+				"title": "Broadcast vs. Discussion",
+				"content_html": "<p>Community is what people look for online, and in real life. The big problem with Twitter is that there&rsquo;s not an effective way for communities to section off and interact. It&rsquo;s a loud stadium full of people of all interests, all trying (and failing) to effectively communicate. Broadcasters (literal and figurative) do well on Twitter because they are only interested in one-way communication. Think news networks or celebrities looking to easily push out information to the masses. Once the information is pushed, the broadcaster doesn&rsquo;t care about the discussion. Show me a news Twitter account that interacts. They don&rsquo;t exist.</p>\n\n<p>Mastodon attempts to solve for this shortcoming in Twitter by putting users into smaller interest-based communities, while maintaining the ability to participate outside of your chosen community through federation. That federation can feel like cross-talk sometimes, while at other times it can be more like an invasion depending on the sizes of the communities involved.</p>\n\n<p>Is there a solution to this? I&rsquo;m not sure. Discord might be one, but it favours community discussion over broadcast and I think a lot of people are actually seeking out that broadcast type system (either as a broadcaster, or reciever).</p>\n",
+				"content_text": "Community is what people look for online, and in real life. The big problem with Twitter is that there's not an effective way for communities to section off and interact. It's a loud stadium full of people of all interests, all trying (and failing) to effectively communicate. Broadcasters (literal and figurative) do well on Twitter because they are only interested in one-way communication. Think news networks or celebrities looking to easily push out information to the masses. Once the information is pushed, the broadcaster doesn't care about the discussion. Show me a news Twitter account that interacts. They don't exist.\r\n\r\nMastodon attempts to solve for this shortcoming in Twitter by putting users into smaller interest-based communities, while maintaining the ability to participate outside of your chosen community through federation. That federation can feel like cross-talk sometimes, while at other times it can be more like an invasion depending on the sizes of the communities involved.\r\n\r\nIs there a solution to this? I'm not sure. Discord might be one, but it favours community discussion over broadcast and I think a lot of people are actually seeking out that broadcast type system (either as a broadcaster, or reciever).\n",
+				"date_published": "2022-04-26T07:48:31-04:00",
+				"url": "https://www.jameskoole.com/2022/04/26/broadcast-vs-discussion.html",
+				"tags": [" web"]
+			},
+			{
+				"id": "http://jameskoole.micro.blog/2022/04/25/since-twitter-is.html",
+				
+				"content_html": "<p>Since @twitter is in the news today for reasons, if you are questioning where you might want to be instead of Twitter, the answer is micro.blog. Set it up on your own domain name, and syndicate to where ever - Twitter, Mastodon, etc.</p>\n",
+				"content_text": "Since @twitter is in the news today for reasons, if you are questioning where you might want to be instead of Twitter, the answer is micro.blog. Set it up on your own domain name, and syndicate to where ever - Twitter, Mastodon, etc.\n",
+				"date_published": "2022-04-25T13:22:47-04:00",
+				"url": "https://www.jameskoole.com/2022/04/25/since-twitter-is.html"
+			},
+			{
+				"id": "http://jameskoole.micro.blog/2022/04/25/today-is-the.html",
+				
+				"content_html": "<p>Today is the 481st day in a row that I ran at least a mile (and 99.9% of the time, quite a bit more). But it&rsquo;s also going to be the last run of that streak. With a marathon to run on Sunday in Vancouver, I&rsquo;m going to prioritize the race and take a few days to rest and repair.</p>\n",
+				"content_text": "Today is the 481st day in a row that I ran at least a mile (and 99.9% of the time, quite a bit more). But it's also going to be the last run of that streak. With a marathon to run on Sunday in Vancouver, I'm going to prioritize the race and take a few days to rest and repair.\n",
+				"date_published": "2022-04-25T13:20:01-04:00",
+				"url": "https://www.jameskoole.com/2022/04/25/today-is-the.html"
+			},
+			{
+				"id": "http://jameskoole.micro.blog/2022/04/25/hawaiian-and-starlink.html",
+				"title": "Hawaiian and Starlink Teaming Up for In-Flight Wi-Fi",
+				"content_html": "<p>Hawaiian Airlines says they are adding Starlink Wi-fi to their planes. The timeline is a bit agressive (next year) given there isn&rsquo;t a Starlink package for aviation and that kind of gear doesn&rsquo;t exactly get created, certified and installed on aircraft overnight. <a href=\"https://newsroom.hawaiianairlines.com/releases/hawaiian-airlines-to-offer-free-high-speed-starlink-internet-connectivity-on-transpacific-fleet\">newsroom.hawaiianairlines.com/releases/&hellip;</a></p>\n\n<p>I&rsquo;d put this on the list with the tunnel to Dodger Stadium, full self-driving cars, the Cybertruck and humans on Mars by 2029.</p>\n",
+				"content_text": "Hawaiian Airlines says they are adding Starlink Wi-fi to their planes. The timeline is a bit agressive (next year) given there isn't a Starlink package for aviation and that kind of gear doesn't exactly get created, certified and installed on aircraft overnight. [newsroom.hawaiianairlines.com/releases/...](https://newsroom.hawaiianairlines.com/releases/hawaiian-airlines-to-offer-free-high-speed-starlink-internet-connectivity-on-transpacific-fleet)\r\n\r\nI'd put this on the list with the tunnel to Dodger Stadium, full self-driving cars, the Cybertruck and humans on Mars by 2029. \r\n",
+				"date_published": "2022-04-25T09:38:11-04:00",
+				"url": "https://www.jameskoole.com/2022/04/25/hawaiian-and-starlink.html",
+				"tags": [" avgeek"]
+			},
+			{
+				"id": "http://jameskoole.micro.blog/2022/04/25/so-apparently-twitter.html",
+				
+				"content_html": "<p>So apparently Twitter is going to call Musk&rsquo;s bluff and accept his takeover offer? I&rsquo;ll wager $10 that he pulls a Lucy and says he&rsquo;s changed his mind and doesn&rsquo;t want it anymore.</p>\n",
+				"content_text": "So apparently Twitter is going to call Musk's bluff and accept his takeover offer? I'll wager $10 that he pulls a Lucy and says he's changed his mind and doesn't want it anymore.\n",
+				"date_published": "2022-04-25T09:28:34-04:00",
+				"url": "https://www.jameskoole.com/2022/04/25/so-apparently-twitter.html"
+			},
+			{
+				"id": "http://jameskoole.micro.blog/2022/04/23/this-bluejays-team.html",
+				
+				"content_html": "<p>This @bluejays team is a great bunch. I&rsquo;m getting more and more excited about this season after another close game, and another win. Best team in the American League.</p>\n",
+				"content_text": "This @bluejays team is a great bunch. I'm getting more and more excited about this season after another close game, and another win. Best team in the American League.\n",
+				"date_published": "2022-04-23T19:09:34-04:00",
+				"url": "https://www.jameskoole.com/2022/04/23/this-bluejays-team.html"
+			},
+			{
+				"id": "http://jameskoole.micro.blog/2022/04/22/finally-got-to.html",
+				
+				"content_html": "<p>Finally got to playing with the panoramic mode on my DJI Mini 2. This is the site of a new development near our house that will transform some unused land into mid-density housing and parkland. <a href=\"https://www.skypixel.com/photo360s/remotemediafile-6553700-26-2022-04-22-17-00-32\">www.skypixel.com/photo360s&hellip;</a></p>\n",
+				"content_text": "Finally got to playing with the panoramic mode on my DJI Mini 2. This is the site of a new development near our house that will transform some unused land into mid-density housing and parkland. [www.skypixel.com/photo360s...](https://www.skypixel.com/photo360s/remotemediafile-6553700-26-2022-04-22-17-00-32)\n",
+				"date_published": "2022-04-22T19:47:30-04:00",
+				"url": "https://www.jameskoole.com/2022/04/22/finally-got-to.html"
+			},
+			{
+				"id": "http://jameskoole.micro.blog/2022/04/21/as-my-boss.html",
+				
+				"content_html": "<p>As my boss said today on Slack: &ldquo;delete this day&rdquo;. Yes please. But I also don&rsquo;t want to have to do it over.</p>\n",
+				"content_text": "As my boss said today on Slack: \"delete this day\". Yes please. But I also don't want to have to do it over.\n",
+				"date_published": "2022-04-21T17:23:44-04:00",
+				"url": "https://www.jameskoole.com/2022/04/21/as-my-boss.html"
+			},
+			{
+				"id": "http://jameskoole.micro.blog/2022/04/20/ball-game-solid.html",
+				
+				"content_html": "<p>Ball game! Solid effort for the @BlueJays. Always good to beat a division rival.</p>\n",
+				"content_text": "Ball game! Solid effort for the @BlueJays. Always good to beat a division rival. \n",
+				"date_published": "2022-04-20T22:19:35-04:00",
+				"url": "https://www.jameskoole.com/2022/04/20/ball-game-solid.html"
+			},
+			{
+				"id": "http://jameskoole.micro.blog/2022/04/20/watching-some-baseball.html",
+				
+				"content_html": "<p>Watching some baseball. Game two of 20 games in 20 days for the @bluejays. I approve of this schedule.</p>\n",
+				"content_text": "Watching some baseball. Game two of 20 games in 20 days for the @bluejays. I approve of this schedule.\n",
+				"date_published": "2022-04-20T20:14:52-04:00",
+				"url": "https://www.jameskoole.com/2022/04/20/watching-some-baseball.html"
+			},
+			{
+				"id": "http://jameskoole.micro.blog/2022/04/19/atlassian-confluence-is.html",
+				
+				"content_html": "<p>Atlassian Confluence is crap. It should make you want to use it to become a meaningful part of team communications. Instead I loathe opening a page and fighting with it.</p>\n\n<p>Notion has its quirks and frustrations, but when I want to write stuff down, I go to Notion, not Confluence.</p>\n",
+				"content_text": "Atlassian Confluence is crap. It should make you want to use it to become a meaningful part of team communications. Instead I loathe opening a page and fighting with it.\n\nNotion has its quirks and frustrations, but when I want to write stuff down, I go to Notion, not Confluence.\n",
+				"date_published": "2022-04-19T13:59:21-04:00",
+				"url": "https://www.jameskoole.com/2022/04/19/atlassian-confluence-is.html"
+			},
+			{
 				"id": "http://jameskoole.micro.blog/2022/04/18/ouch-there-is.html",
 				
 				"content_html": "<p>Ouch. There is currently a grand total of zero Sunwing planes in the air as they deal with some sort of systems crash/outage. As you might expect, vacationers are not happy.</p>\n",
