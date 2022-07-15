@@ -7,6 +7,70 @@
 	"items": [
 		
 			{
+				"id": "http://jameskoole.micro.blog/2022/07/13/to-th-dose.html",
+				
+				"content_html": "<p>To 4th dose or not to 4th dose. That is the question.</p>\n",
+				"content_text": "To 4th dose or not to 4th dose. That is the question.\n",
+				"date_published": "2022-07-13T11:14:42-04:00",
+				"url": "https://www.jameskoole.com/2022/07/13/to-th-dose.html"
+			},
+			{
+				"id": "http://jameskoole.micro.blog/2022/07/12/i-bought-myself.html",
+				
+				"content_html": "<p>I bought myself a Kindle Paperwhite 4 last year and used it a fair bit over the summer. This year I had my eye on the latest generation of the Paperwhite with a bigger screen and USB-C (Paperwhite 5 11th gen). The Prime Day sale today got me to pull the trigger and my old one will be handed over to another reader in the family. I tend to borrow ebooks from the library (OverDrive) and I convert them over to be readable on the Kindle. Occasionally I will buy a book from the Kindle Store, but only if I can&rsquo;t wait around to get to the top of the wait list at the library.</p>\n",
+				"content_text": "I bought myself a Kindle Paperwhite 4 last year and used it a fair bit over the summer. This year I had my eye on the latest generation of the Paperwhite with a bigger screen and USB-C (Paperwhite 5 11th gen). The Prime Day sale today got me to pull the trigger and my old one will be handed over to another reader in the family. I tend to borrow ebooks from the library (OverDrive) and I convert them over to be readable on the Kindle. Occasionally I will buy a book from the Kindle Store, but only if I can't wait around to get to the top of the wait list at the library.\n",
+				"date_published": "2022-07-12T19:35:34-04:00",
+				"url": "https://www.jameskoole.com/2022/07/12/i-bought-myself.html"
+			},
+			{
+				"id": "http://jameskoole.micro.blog/2022/07/12/this-is-great.html",
+				
+				"content_html": "<p>This is great. I like to think that we &ldquo;give a shit&rdquo; at my work. I know that I certainly do. <a href=\"https://allenpike.com/2022/giving-a-shit\">allenpike.com/2022/givi&hellip;</a></p>\n",
+				"content_text": "This is great. I like to think that we \"give a shit\" at my work. I know that I certainly do. [allenpike.com/2022/givi...](https://allenpike.com/2022/giving-a-shit)\n",
+				"date_published": "2022-07-12T13:25:10-04:00",
+				"url": "https://www.jameskoole.com/2022/07/12/this-is-great.html"
+			},
+			{
+				"id": "http://jameskoole.micro.blog/2022/07/10/my-work-macbook.html",
+				
+				"content_html": "<p>My work MacBook Pro is apparently going to be officially vintage on July 31. It’s still going strong and I have no intention of retiring it mostly because the new computers from work come loaded with corporate spyware and restrictions.</p>\n",
+				"content_text": "My work MacBook Pro is apparently going to be officially vintage on July 31. It’s still going strong and I have no intention of retiring it mostly because the new computers from work come loaded with corporate spyware and restrictions. \n",
+				"date_published": "2022-07-10T15:24:55-04:00",
+				"url": "https://www.jameskoole.com/2022/07/10/my-work-macbook.html"
+			},
+			{
+				"id": "http://jameskoole.micro.blog/2022/07/08/musk-is-a.html",
+				
+				"content_html": "<p>Musk is a lunatic.</p>\n",
+				"content_text": "Musk is a lunatic.\n",
+				"date_published": "2022-07-08T18:58:54-04:00",
+				"url": "https://www.jameskoole.com/2022/07/08/musk-is-a.html"
+			},
+			{
+				"id": "http://jameskoole.micro.blog/2022/07/08/shared-icloud-photos.html",
+				
+				"content_html": "<p>Shared iCloud Photos libraries look very nicely implemented. Moving some photos over now. It&rsquo;s really nice how the Photos apps let you look at either your Personal library, Shared library or both. Super slick.</p>\n",
+				"content_text": "Shared iCloud Photos libraries look very nicely implemented. Moving some photos over now. It's really nice how the Photos apps let you look at either your Personal library, Shared library or both. Super slick.\n",
+				"date_published": "2022-07-08T13:52:25-04:00",
+				"url": "https://www.jameskoole.com/2022/07/08/shared-icloud-photos.html"
+			},
+			{
+				"id": "http://jameskoole.micro.blog/2022/07/08/i-say-this.html",
+				
+				"content_html": "<p>I say this as Rogers is down nationwide across Canada for both mobile and cable internet.</p>\n",
+				"content_text": "I say this as Rogers is down nationwide across Canada for both mobile and cable internet.\n",
+				"date_published": "2022-07-08T08:55:46-04:00",
+				"url": "https://www.jameskoole.com/2022/07/08/i-say-this.html"
+			},
+			{
+				"id": "http://jameskoole.micro.blog/2022/07/08/happily-a-rogersfree.html",
+				
+				"content_html": "<p>Happily a Rogers-free household for a decade now. Cable to the house doesn&rsquo;t even exist as it came down in the big ice storm many years back and we just clipped it off at the fence. Happy Telus customer since the beginning (I had ClearNET). We&rsquo;ve never had a Bell outage on fiber.</p>\n",
+				"content_text": "Happily a Rogers-free household for a decade now. Cable to the house doesn't even exist as it came down in the big ice storm many years back and we just clipped it off at the fence. Happy Telus customer since the beginning (I had ClearNET). We've never had a Bell outage on fiber.\n",
+				"date_published": "2022-07-08T08:55:12-04:00",
+				"url": "https://www.jameskoole.com/2022/07/08/happily-a-rogersfree.html"
+			},
+			{
 				"id": "http://jameskoole.micro.blog/2022/07/07/at-this-point.html",
 				
 				"content_html": "<p>At this point, I have to conclude that Elon is a LARPer. Either that or the &ldquo;we&rsquo;re living in a simulation&rdquo; is true.</p>\n",
