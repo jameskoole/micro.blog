@@ -7,6 +7,54 @@
 	"items": [
 		
 			{
+				"id": "http://jameskoole.micro.blog/2022/07/22/tonights-fun-drove.html",
+				
+				"content_html": "<p>Tonight&rsquo;s fun: Drove down to get ice cream on a warm summer night and discovered I had a flat tire along the way. Luckily I have a pump, so I parked it and then pumped it up to 30PSI to see if it would at least hold air for a bit to get home. Then we got the ice cream. It was yummy.</p>\n<p>On the way back to the car, I watched as a bunch of asshole drunks on a local bar patio made fun of a guy for wearing a mask. Guy with the mask literally had a chemo port on his bicep. The asshole drunks got put in their place by this guy who took it far better than I would have.</p>\n<p>The tire was holding air fine, so I pumped it up a bit more just to be safe and drove home. Once at home, I jacked the car, and swapped the leaky one for the spare. Luckily it&rsquo;s an older RAV4 that has a full-size spare on the back so I&rsquo;ve got some time to get the nail removed and the tire repaired.</p>\n<p>Tuned into the Blue Jays game just in time to see Janssen hit a three-run blast to make it 14-0 in the 4th. Red Sox fans seem unhappy.</p>\n<p>Tomorrow it&rsquo;s a drive up to drop the kid at her summer camp job after her week off and then the drive back home.</p>\n",
+				"content_text": "Tonight's fun: Drove down to get ice cream on a warm summer night and discovered I had a flat tire along the way. Luckily I have a pump, so I parked it and then pumped it up to 30PSI to see if it would at least hold air for a bit to get home. Then we got the ice cream. It was yummy.\r\n\r\nOn the way back to the car, I watched as a bunch of asshole drunks on a local bar patio made fun of a guy for wearing a mask. Guy with the mask literally had a chemo port on his bicep. The asshole drunks got put in their place by this guy who took it far better than I would have.\r\n\r\nThe tire was holding air fine, so I pumped it up a bit more just to be safe and drove home. Once at home, I jacked the car, and swapped the leaky one for the spare. Luckily it's an older RAV4 that has a full-size spare on the back so I've got some time to get the nail removed and the tire repaired.\r\n\r\nTuned into the Blue Jays game just in time to see Janssen hit a three-run blast to make it 14-0 in the 4th. Red Sox fans seem unhappy.\r\n\r\nTomorrow it's a drive up to drop the kid at her summer camp job after her week off and then the drive back home. \n",
+				"date_published": "2022-07-22T20:50:29-04:00",
+				"url": "https://www.jameskoole.com/2022/07/22/tonights-fun-drove.html"
+			},
+			{
+				"id": "http://jameskoole.micro.blog/2022/07/22/using-both-my.html",
+				
+				"content_html": "<p>Using both my work MacBook Pro (Intel, Late 2016) and my personal MacBook Air (M1, late 2020), I can say the Intel Pro gets and stays ridiculously warm while the Air is basically ambient temperature. I need to upgrade this work computer one of these days.</p>\n",
+				"content_text": "Using both my work MacBook Pro (Intel, Late 2016) and my personal MacBook Air (M1, late 2020), I can say the Intel Pro gets and stays ridiculously warm while the Air is basically ambient temperature. I need to upgrade this work computer one of these days.\n",
+				"date_published": "2022-07-22T14:25:19-04:00",
+				"url": "https://www.jameskoole.com/2022/07/22/using-both-my.html"
+			},
+			{
+				"id": "http://jameskoole.micro.blog/2022/07/21/power-is-back.html",
+				
+				"content_html": "<p>Power is back. Outage was from 7:37 A.M. to 8:57 A.M. according to the logs on my ADS-B feeder Raspberry Pi. The UPS on my networking gear lasted the entire time which was nice (and good to know). This has me thinking about battery options for a Raspberry Pi 4 now so I could maybe keep the ADS-B feeder going throughout a short outage. 🤪</p>\n",
+				"content_text": "Power is back. Outage was from 7:37 A.M. to 8:57 A.M. according to the logs on my ADS-B feeder Raspberry Pi. The UPS on my networking gear lasted the entire time which was nice (and good to know). This has me thinking about battery options for a Raspberry Pi 4 now so I could maybe keep the ADS-B feeder going throughout a short outage. 🤪\n",
+				"date_published": "2022-07-21T09:31:26-04:00",
+				"url": "https://www.jameskoole.com/2022/07/21/power-is-back.html"
+			},
+			{
+				"id": "http://jameskoole.micro.blog/2022/07/21/a-planned-power.html",
+				
+				"content_html": "<p>A planned power outage is underway in our neighbourhood. I&rsquo;ve got the UPS powering my fibre ONT and one Eero to get wifi for a while. And the gas stove and my trusty Aeropress has provided the morning coffee. Supposed to be about four hours so the UPS will give out after a while and I&rsquo;ll need to switch to tethering to stay online.</p>\n",
+				"content_text": "A planned power outage is underway in our neighbourhood. I've got the UPS powering my fibre ONT and one Eero to get wifi for a while. And the gas stove and my trusty Aeropress has provided the morning coffee. Supposed to be about four hours so the UPS will give out after a while and I'll need to switch to tethering to stay online.\n",
+				"date_published": "2022-07-21T08:09:47-04:00",
+				"url": "https://www.jameskoole.com/2022/07/21/a-planned-power.html"
+			},
+			{
+				"id": "http://jameskoole.micro.blog/2022/07/19/at-least-right.html",
+				
+				"content_html": "<p>At least right now, it&rsquo;s almost too warm to work outside on the deck today. Waiting for the sun to make it&rsquo;s way across the sky to where our umbrella provides more coverage.</p>\n",
+				"content_text": "At least right now, it's almost too warm to work outside on the deck today. Waiting for the sun to make it's way across the sky to where our umbrella provides more coverage.\n",
+				"date_published": "2022-07-19T10:22:33-04:00",
+				"url": "https://www.jameskoole.com/2022/07/19/at-least-right.html"
+			},
+			{
+				"id": "http://jameskoole.micro.blog/2022/07/18/enjoying-my-few.html",
+				
+				"content_html": "<p>Enjoying my few days of post-vaccination side effects. Sore arm to start, then poor sleep and a low-grade headache with ear ringing. Now, a bit of fatigue but nothing terrible. It&rsquo;s basically a carbon copy of my past experiences. Here&rsquo;s hoping I avoid the weeks-long headache I experienced with the first booster.</p>\n",
+				"content_text": "Enjoying my few days of post-vaccination side effects. Sore arm to start, then poor sleep and a low-grade headache with ear ringing. Now, a bit of fatigue but nothing terrible. It's basically a carbon copy of my past experiences. Here's hoping I avoid the weeks-long headache I experienced with the first booster.\n",
+				"date_published": "2022-07-18T19:56:39-04:00",
+				"url": "https://www.jameskoole.com/2022/07/18/enjoying-my-few.html"
+			},
+			{
 				"id": "http://jameskoole.micro.blog/2022/07/13/to-th-dose.html",
 				
 				"content_html": "<p>To 4th dose or not to 4th dose. That is the question.</p>\n",
