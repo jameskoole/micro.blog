@@ -6,13 +6,5 @@
 	"feed_url": "https://www.jameskoole.com/feed.json",
 	"items": [
 		
-			{
-				"id": "http://jameskoole.micro.blog/2022/11/19/hello-world-im.html",
-				
-				"content_html": "<p>Hello World! I&rsquo;m back on micro.blog to share some longer form writing.</p>\n",
-				"content_text": "Hello World! I'm back on micro.blog to share some longer form writing.\n",
-				"date_published": "2022-11-19T17:22:28-05:00",
-				"url": "https://www.jameskoole.com/2022/11/19/hello-world-im.html"
-			}
 	]
 }
